@@ -1,13 +1,3 @@
-class job{
-    public:
-        int start, end, profit;
-    
-    job(int a, int b, int c){
-        start = a;
-        end = b;
-        profit = c;
-    }
-};
 /*
 
 Author : Manas Rawat
@@ -19,6 +9,17 @@ Video Solution : https://youtu.be/IBSv87Sk-rw
 
 */
 
+
+class job{
+    public:
+        int start, end, profit;
+    
+    job(int a, int b, int c){
+        start = a;
+        end = b;
+        profit = c;
+    }
+};
 
 class Solution {
 public:
