@@ -5,7 +5,7 @@ Date : 17/01/2024
 Problem : Unique Number of Occurrences
 Difficulty : Easy
 Problem Link : https://leetcode.com/problems/unique-number-of-occurrences/description/
-Video Solution : https://leetcode.com/problems/unique-number-of-occurrences/
+Video Solution : https://youtu.be/neDNGPm_QDw
 
 */
 
