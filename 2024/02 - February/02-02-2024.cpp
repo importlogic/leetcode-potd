@@ -2,7 +2,7 @@
 
 Author : Manas Rawat
 Date : 02/02/2024
-Problem : https://leetcode.com/problems/sequential-digits/description/
+Problem : Sequential Digits
 Difficulty : Medium
 Problem Link : https://leetcode.com/problems/sequential-digits/description/
 Video Solution : https://youtu.be/RYLA6hDQ7lA
