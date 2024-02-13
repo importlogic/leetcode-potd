@@ -3,6 +3,7 @@
 Author : Manas Rawat
 Date : 11/02/2024
 Problem : Cherry Pickup II
+Difficulty : Hard
 Problem Link : https://leetcode.com/problems/cherry-pickup-ii/description/
 Video Solution : https://youtu.be/8D1mZ4lX8PI
 
