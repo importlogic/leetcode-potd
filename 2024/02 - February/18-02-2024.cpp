@@ -2,7 +2,7 @@
 
 Author : Manas Rawat
 Date : 18/02/2024
-Problem :  Meeting Rooms III
+Problem : Meeting Rooms III
 Difficulty : Hard
 Problem Link : https://leetcode.com/problems/meeting-rooms-iii/description/
 Video Solution : https://youtu.be/7h047ZRAWhs
