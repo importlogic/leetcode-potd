@@ -1,10 +1,10 @@
 /*
 
-Author : Manas Rawat 
-Date : 20/03/2024
-Problem : Merge In Between Linked Lists
-Difficulty : Medium 
-Problem Link : https://leetcode.com/problems/merge-in-between-linked-lists/description
+Author : Saransh Bangar
+Date : 21/03/2024
+Problem : Reverse Linked List
+Difficulty : Easy 
+Problem Link : https://leetcode.com/problems/reverse-linked-list/description/
 Video Solution : NA
 
 */
